@@ -78,10 +78,10 @@ analytics:
     tracking_id: null
     anonymize_ip: null
 author:
-  name: Your Name
+  name: 자데
   avatar: null
   bio: I am an amazing person.
-  location: Somewhere
+  location: korea
   email: null
   links:
     - label: Email
